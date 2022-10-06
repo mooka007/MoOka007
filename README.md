@@ -1,6 +1,6 @@
 
 Hi 👋, its Me  Mohammed Yassine Marzouki
-        Mern Stack Dedveloper 
+        
 
 
 ## 🌐 Socials:
